@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+- The workflow skill's description names Kotlin, PHP and C#, so agents also pick it for those
+  ports (#280).
+
 ## 3.4.0 (2026-11-23)
 
 - PowerShell units (#209). `analyze` reads `.psm1` modules, `.ps1` scripts and `.psd1` manifests,
