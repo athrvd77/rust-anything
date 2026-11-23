@@ -2,7 +2,7 @@
 
 ## Unreleased
 
-- The workflow skill's description names Kotlin, PHP and C#, so agents also pick it for those
+- The workflow skill's description names Kotlin, PHP, C# and PowerShell, so agents also pick it for those
   ports (#280).
 
 ## 3.4.0 (2026-11-23)
